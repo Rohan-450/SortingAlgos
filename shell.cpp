@@ -1,5 +1,3 @@
-// Shell Sort in C++ programming
-
 #include <iostream>
 using namespace std;
 
@@ -17,7 +15,6 @@ void shellSort(int array[], int n) {
     }
   }
 }
-
 // Print an array
 void printArray(int array[], int size) {
   int i;
